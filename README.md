@@ -1,4 +1,4 @@
-A simple Maven plugin which makes releasing a project containing DAR file a bit easier. 
+A simple Maven plugin which makes releasing a project containing Documentum DAR file a bit easier. 
 It is aimed at projects where DAR artifacts are mostly static and only a few JARs are updated between releases, 
 for other cases it is recommended to build a DAR file each time during a release.
 
